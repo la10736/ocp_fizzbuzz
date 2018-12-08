@@ -35,7 +35,7 @@ mod test {
     }
 
 //    #[test]
-//    #[should_panic]
+//    //#[should_panic]
 //    fn should_return_fizz_for_multiple_of_3() {
 //        let fb = fizzbuzz();
 //
@@ -44,7 +44,7 @@ mod test {
 //    }
 
 //    #[test]
-//    #[should_panic]
+//    //#[should_panic]
 //    fn should_return_buzz_for_multiple_of_5() {
 //        let fb = fizzbuzz();
 //
@@ -53,7 +53,7 @@ mod test {
 //    }
 
 //    #[test]
-//    #[should_panic]
+//    //#[should_panic]
 //    fn should_return_fizzbuzz_for_multiple_of_3_and_5() {
 //        let fb = fizzbuzz();
 //
