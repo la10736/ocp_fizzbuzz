@@ -57,7 +57,7 @@ mod test {
 //    fn should_return_fizzbuzz_for_multiple_of_3_and_5() {
 //        let fb = fizzbuzz();
 //
-//        assert_eq!("Buzz", &fb.apply(15));
-//        assert_eq!("Buzz", &fb.apply(45));
+//        assert_eq!("FizzBuzz", &fb.apply(15));
+//        assert_eq!("FizzBuzz", &fb.apply(45));
 //    }
 }

@@ -32,7 +32,7 @@ check the new feature.
     - no: **DONE**
   - no: Recover `#[should_panic]`, `fizzbuzz()` ad go back to 4
 
-## Hits
+## Hints
 
 You can:
 
